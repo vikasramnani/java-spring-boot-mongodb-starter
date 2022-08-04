@@ -5,7 +5,7 @@
 - Java 8 to 15
 - Spring boot 2.4.2
 - MongoDB 4.4.3
-- MongoDB Java driver 4.1.1
+- MongoDB Java driver 4.7.0
 - Maven 3.6.3
 - Swagger 3.0.0
 
